@@ -1,0 +1,10 @@
+C:\Users\barto\source\repos\WielomianyInformatyka\WielomianyInformatyka\bin\Debug\WielomianyInformatyka.exe.config
+C:\Users\barto\source\repos\WielomianyInformatyka\WielomianyInformatyka\bin\Debug\WielomianyInformatyka.exe
+C:\Users\barto\source\repos\WielomianyInformatyka\WielomianyInformatyka\bin\Debug\WielomianyInformatyka.pdb
+C:\Users\barto\source\repos\WielomianyInformatyka\WielomianyInformatyka\bin\Debug\polynomian.dll
+C:\Users\barto\source\repos\WielomianyInformatyka\WielomianyInformatyka\bin\Debug\polynomian.pdb
+C:\Users\barto\source\repos\WielomianyInformatyka\WielomianyInformatyka\obj\Debug\WielomianyInformatyka.csproj.AssemblyReference.cache
+C:\Users\barto\source\repos\WielomianyInformatyka\WielomianyInformatyka\obj\Debug\WielomianyInformatyka.csproj.CoreCompileInputs.cache
+C:\Users\barto\source\repos\WielomianyInformatyka\WielomianyInformatyka\obj\Debug\WielomianyInformatyka.csproj.CopyComplete
+C:\Users\barto\source\repos\WielomianyInformatyka\WielomianyInformatyka\obj\Debug\WielomianyInformatyka.exe
+C:\Users\barto\source\repos\WielomianyInformatyka\WielomianyInformatyka\obj\Debug\WielomianyInformatyka.pdb
